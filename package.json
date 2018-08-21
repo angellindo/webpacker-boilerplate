@@ -1,18 +1,22 @@
 {
   "dependencies": {
-    "@babel/core": "^7.0.0-rc.1",
+    "@babel/core": "^7.0.0-rc.2",
+    "@babel/preset-react": "^7.0.0-rc.2",
     "@rails/webpacker": "4.0.0-pre.2",
-    "babel-loader": "^8.0.0-beta.4"
+    "babel-loader": "^8.0.0-beta.4",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
   },
   "devDependencies": {
-    "@babel/runtime": "^7.0.0-rc.1",
-    "@babel/preset-env": "^7.0.0-rc.1",
-    "@babel/plugin-proposal-class-properties": "^7.0.0-rc.1",
-    "@babel/plugin-proposal-object-rest-spread": "^7.0.0-rc.1",
-    "@babel/plugin-syntax-dynamic-import": "^7.0.0-rc.1",
-    "@babel/plugin-transform-destructuring": "^7.0.0-rc.1",
-    "@babel/plugin-transform-regenerator": "^7.0.0-rc.1",
-    "@babel/plugin-transform-runtime": "^7.0.0-rc.1",
+    "@babel/plugin-proposal-class-properties": "^7.0.0-rc.2",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0-rc.2",
+    "@babel/plugin-syntax-dynamic-import": "^7.0.0-rc.2",
+    "@babel/plugin-transform-destructuring": "^7.0.0-rc.2",
+    "@babel/plugin-transform-regenerator": "^7.0.0-rc.2",
+    "@babel/plugin-transform-runtime": "^7.0.0-rc.2",
+    "@babel/preset-env": "^7.0.0-rc.2",
+    "@babel/runtime": "^7.0.0-rc.2",
+    "babel-cli": "^6.26.0",
     "webpack": "^4.16.5",
     "webpack-cli": "^3.1.0",
     "webpack-dev-server": "^3.1.5"
