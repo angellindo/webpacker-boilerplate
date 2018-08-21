@@ -1,3 +1,7 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: salmon;
+
 body {
-  background-color: salmon;
+  font: 100% $font-stack;
+  background-color: $primary-color;
 }
