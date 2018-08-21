@@ -10,5 +10,6 @@
 import ReactDOM from "react-dom";
 import App from "../src/app";
 import React from "react";
+import "../src/css/applicaction.module.scss";
 
 ReactDOM.render(<App/>, document.querySelector("#app"));
